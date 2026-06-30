@@ -16,15 +16,13 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #EXTINF:-1,AXN
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 #EXTINF:-1,Universal Channel
-https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/49_.m3u8?token=YjQQQT3DNylDdWhmVZ0UKQ&expires=1782810845
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/49_.m3u8?token=IyxOhW5T9S8hnIahBx7CpQ&expires=1782901837
 #EXTINF:-1,TNT Series
-https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/53_.m3u8?token=L1Q5X5mUW7HeynjJN6a8qw&expires=1782811159
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/53_.m3u8?token=pemAfWA054YuTbV4jBktwg&expires=1782902119
 #EXTINF:-1,STAR Channel
-https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/54_.m3u8?token=98rshXjMHRT1Muudy8UxMQ&expires=1782811418
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/54_.m3u8?token=5Azlms_0GnIdhjASJhbsrg&expires=1782902228
 #EXTINF:-1,Space
 https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/56_.m3u8?token=FX-65_a5DmGhCpo4Y7hrvA&expires=1782811793
-#EXTINF:-1,Direct Tv Sports
-https://deportes.ksdjugfsddeports.com:9092/MjAxLjE2Mi4yMTkuMjUx/11_.m3u8?token=5efiYTc8fshmFDAvY41TyQ&expires=1782801638
 #EXTINF:-1,AMC
 https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/63_.m3u8?token=IqLad3cdzmXJELAQZSBAdw&expires=1782812590
 #EXTINF:-1,Golden Edge
@@ -35,9 +33,4 @@ https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/72_.m3u8?token=
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?uid=8w9l8MKCWHzIxmnVBskIBsfqIHZUym0x&sid=6ILEjxdnPJLc745WVKNmTBkITYlBfbNw&pid=dXuorSTdpsE7gYvr6n87ysW1NJFLo6ak&pid_dvr=Sb20lVxUXqtjb8pvuAaW0apqO3m9l2n7&an=multimedios-radio-app-web&at=web-app&av=v7.0.67&ref=https%3A%2F%2Fwww.multimediostv.com%2F&res=508x233&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=7d181f82-c214-4a57-98fd-46adcb4fecdb&CMCD=cid%3D%225f2d9d6ff17144074bd8a284%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22dXuorSTdpsE7gYvr6n87ysW1NJFLo6ak%22%2Csu
 #EXTINF:-1,Foro Tv
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
-#EXTINF:-1,Azteca 1 (2)
-https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/67da2951a9abb4cba6221759/linear/hls/pa/event/dQQwxiRsQDaWE2z59xVZhw/stream/5354c6d7-bd70-4302-b240-2b9247402fcb:TUL/variant/fe356b200f51893596ea7f44e514d99e/bandwidth/2822600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=8w9l8MKCWHzIxmnVBskIBsfqIHZUym0x&sid=w6EOIFHo8tqTioUm1sX0m3P7DOPYwceY&pid=l7f22LYT4oKdxrCzv8wkhludxJ06rFgm&pid_dvr=Yflota1AeYoJLkP8BdZ5MMt3np3mkaWt&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=CWoPPMIRw2D07P8H9Wpsyvjh9C6Vcg0q4yM88supZHkR0322rLx5GlZbJ0BiLN00yputFV0McNL&adInsertionGoogleStreamId=5354c6d7-bd70-4302-b240-2b9247402fcb%3ATUL&CMCD=cid%3D%2267da2951a9abb4cba6221759%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22l7f22LYT4oKdxrCzv8wkhludxJ06rFgm%22%2Csu&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1782868003711&ot=NLGEnskmJr2xCrv7g_oUOg&proto=https&pz=us
-#EXTINF:-1,Discovery H&H
-https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/42_.m3u8?token=YlZtSHdwsRfjo-3p6Udp8A&expires=1782825250
-#EXTINF:-1,Discovery Channel
-https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/37_.m3u8?token=p0w5IDwRyZ_7GSa_-vcyaw&expires=1782825429
+
