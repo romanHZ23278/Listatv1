@@ -6,7 +6,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://share.google/AOnfMOieg0oYL8Ty1",canal 5
 https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/2_.m3u8?token=j5PIU68h573v44T4LRfmIg&expires=1782824994
 #EXTINF:-1,Azteca 7
-https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/1_.m3u8?token=xv5JF8eR1ozllsmGY9s9GA&expires=1782826861
+http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 #EXTINF:-1,milenio televisión
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1,TUDN
