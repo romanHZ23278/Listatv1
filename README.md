@@ -1,1 +1,43 @@
-# Listatv1
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://share.google/9e6paeGI8s2Qm836E",Azteca 1
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/67da2951a9abb4cba6221759/linear/hls/pa/event/dQQwxiRsQDaWE2z59xVZhw/stream/5354c6d7-bd70-4302-b240-2b9247402fcb:TUL/variant/fe356b200f51893596ea7f44e514d99e/bandwidth/2822600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=8w9l8MKCWHzIxmnVBskIBsfqIHZUym0x&sid=w6EOIFHo8tqTioUm1sX0m3P7DOPYwceY&pid=l7f22LYT4oKdxrCzv8wkhludxJ06rFgm&pid_dvr=Yflota1AeYoJLkP8BdZ5MMt3np3mkaWt&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=CWoPPMIRw2D07P8H9Wpsyvjh9C6Vcg0q4yM88supZHkR0322rLx5GlZbJ0BiLN00yputFV0McNL&adInsertionGoogleStreamId=5354c6d7-bd70-4302-b240-2b9247402fcb%3ATUL&CMCD=cid%3D%2267da2951a9abb4cba6221759%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22l7f22LYT4oKdxrCzv8wkhludxJ06rFgm%22%2Csu&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1782868003711&ot=NLGEnskmJr2xCrv7g_oUOg&proto=https&pz=us
+#EXTINF:-1 tvg-logo="https://share.google/x5lQFHxyc9s0NlU7g",las estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://share.google/AOnfMOieg0oYL8Ty1",canal 5
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/2_.m3u8?token=j5PIU68h573v44T4LRfmIg&expires=1782824994
+#EXTINF:-1,Azteca 7
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/1_.m3u8?token=xv5JF8eR1ozllsmGY9s9GA&expires=1782826861
+#EXTINF:-1,milenio televisión
+https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+#EXTINF:-1,TUDN
+https://streaming.alwaysdata.net/tudn.php
+#EXTINF:-1,HISTORY channel 2
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1,AXN
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1,Universal Channel
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/49_.m3u8?token=YjQQQT3DNylDdWhmVZ0UKQ&expires=1782810845
+#EXTINF:-1,TNT Series
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/53_.m3u8?token=L1Q5X5mUW7HeynjJN6a8qw&expires=1782811159
+#EXTINF:-1,STAR Channel
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/54_.m3u8?token=98rshXjMHRT1Muudy8UxMQ&expires=1782811418
+#EXTINF:-1,Space
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/56_.m3u8?token=FX-65_a5DmGhCpo4Y7hrvA&expires=1782811793
+#EXTINF:-1,Direct Tv Sports
+https://deportes.ksdjugfsddeports.com:9092/MjAxLjE2Mi4yMTkuMjUx/11_.m3u8?token=5efiYTc8fshmFDAvY41TyQ&expires=1782801638
+#EXTINF:-1,AMC
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/63_.m3u8?token=IqLad3cdzmXJELAQZSBAdw&expires=1782812590
+#EXTINF:-1,Golden Edge
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/69_.m3u8?token=xeS1DcHJmmJDoCLcRL3rPw&expires=1782812676
+#EXTINF:-1,Sony Channel
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/72_.m3u8?token=QIJtsLhuytPlJ_1PsTSJKw&expires=1782812787
+#EXTINF:-1,canal 6
+https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-dai/5f2d9d6ff17144074bd8a284/fd14abc7469044808acf8cd0eb9ae9e2/f624fec49dadc88894ebeff1d974eab019af7757/session/bb1e0969-32d1-4a3e-8817-251b99e505af/media.m3u8?aid=579bd29dc99290cf08362c3b&uid=8w9l8MKCWHzIxmnVBskIBsfqIHZUym0x&sid=yhGgtMT2hrjrmVz809BdEivkiwYn6TAY&pid=3Vb4ZnJ563ocVGGs13uWexg2g4MZ7NHa&pid_dvr=7ZXd2cxnsrHScmkPvt7knpZ3ND9TNddD&ref=https%3A%2F%2Fwww.multimediostv.com%2F&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%225f2d9d6ff17144074bd8a284%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223Vb4ZnJ563ocVGGs13uWexg2g4MZ7NHa%22%2Csu&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1782856227251&ot=ZhBXUyBQX1XyhEFBKuQF9Q&proto=https&pz=us
+#EXTINF:-1,Foro Tv
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8&redirect=true
+#EXTINF:-1,Azteca 1 (2)
+https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream-gdai/67da2951a9abb4cba6221759/linear/hls/pa/event/dQQwxiRsQDaWE2z59xVZhw/stream/5354c6d7-bd70-4302-b240-2b9247402fcb:TUL/variant/fe356b200f51893596ea7f44e514d99e/bandwidth/2822600.m3u8?aid=5fea09a071a9945deebf5f7c&uid=8w9l8MKCWHzIxmnVBskIBsfqIHZUym0x&sid=w6EOIFHo8tqTioUm1sX0m3P7DOPYwceY&pid=l7f22LYT4oKdxrCzv8wkhludxJ06rFgm&pid_dvr=Yflota1AeYoJLkP8BdZ5MMt3np3mkaWt&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=CWoPPMIRw2D07P8H9Wpsyvjh9C6Vcg0q4yM88supZHkR0322rLx5GlZbJ0BiLN00yputFV0McNL&adInsertionGoogleStreamId=5354c6d7-bd70-4302-b240-2b9247402fcb%3ATUL&CMCD=cid%3D%2267da2951a9abb4cba6221759%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22l7f22LYT4oKdxrCzv8wkhludxJ06rFgm%22%2Csu&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1782868003711&ot=NLGEnskmJr2xCrv7g_oUOg&proto=https&pz=us
+#EXTINF:-1,Discovery H&H
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/42_.m3u8?token=YlZtSHdwsRfjo-3p6Udp8A&expires=1782825250
+#EXTINF:-1,Discovery Channel
+https://regionales.saohgdasregions.fun:9092/MjAxLjE2Mi4yMTkuMjUx/37_.m3u8?token=p0w5IDwRyZ_7GSa_-vcyaw&expires=1782825429
